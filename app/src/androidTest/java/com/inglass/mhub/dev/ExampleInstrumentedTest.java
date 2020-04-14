@@ -1,4 +1,4 @@
-package com.pushwoosh.demoapp;
+package com.inglass.mhub.dev;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.pushwoosh.demoapp", appContext.getPackageName());
+        assertEquals("com.inglass.mhub.dev", appContext.getPackageName());
     }
 }

@@ -1,4 +1,4 @@
-package com.pushwoosh.demoapp;
+package com.inglass.mhub.dev;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;

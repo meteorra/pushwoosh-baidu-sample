@@ -1,4 +1,4 @@
-package com.pushwoosh.demoapp;
+package com.inglass.mhub.dev;
 
 import org.junit.Test;
 

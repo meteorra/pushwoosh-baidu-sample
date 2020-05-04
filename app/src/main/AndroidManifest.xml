@@ -72,7 +72,7 @@ package="com.inglass.mhub.dev">
 
 
     <meta-data android:name="com.pushwoosh.appid" android:value="66A5D-924E3" />
-    <meta-data android:name="com.pushwoosh.baidu_api_key" android:value="LZwS2MKBbElX5DWYLSFGyhxZ" />
+    <meta-data android:name="com.pushwoosh.baidu_api_key" android:value="EKMVAu9Flf6vmhYHpxvhN7ls" />
     <activity android:name=".MainActivity">
         <intent-filter>
             <action android:name="android.intent.action.MAIN" />
